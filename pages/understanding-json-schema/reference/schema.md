@@ -21,7 +21,8 @@ describes another schema is called a [\"meta-schema\"](../../learn/glossary#meta
 
 `$schema` applies to the entire document and must be at the root level.
 It does not apply to externally referenced (`$ref`, `$dynamicRef`)
-documents. Those schemas need to declare their own `$schema`.
+documents. Those schemas need to declare their own `$schema`. jigwfr;fier  ierfbieri fvjgijergjegijgjgijgijgjrgjrgrijr
+
 
 If `$schema` is not used, an [implementation](../../learn/glossary#implementation) might allow you to specify a
 value externally or it might make assumptions about which specification
